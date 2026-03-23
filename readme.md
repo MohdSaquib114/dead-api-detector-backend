@@ -49,7 +49,7 @@ dead-api-detector/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/MohdSaquib114/dead-api-detector-backend.git
 cd dead-api-detector
 ```
 
